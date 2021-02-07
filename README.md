@@ -73,6 +73,7 @@ To use the bot on Discord, prefix your command with "destroy". An empty command 
 | `musicdelay`    | `musd`      | Number | 0    | End of video | Number of seconds corresponding to when the added music starts                                      |
 | `musicskip`     | `muss`      | Number | 0    | End of music | Starts the song at a given time of the song (in seconds)                                            |
 | `sfx`           | `sfx`       | Number | 1    | 100          | Adds random sound effects                                                                           |
+| `jerma`         | `jerma`     | Number | 1    | 100          | Adds a variety of Jerma985 sounds (AA, EE, OO, Audio Jungle)                                       |
 | `datamosh`      | `dm`        | Number | 0    | 100          | Corrupts video by removing non-delta frames                                                         |
 | `ytp`           | `ytp`       | Number | 0    | 100          | Adds random plays and reverses to a video.                                                          |
 | `shuffle`       | `sh`        | -      | -    | -            | Shuffles the whole video                                                                            |
